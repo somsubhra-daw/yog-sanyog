@@ -1,0 +1,1 @@
+import{r as o}from"./index-CRfZI0v4.js";function m({title:n,description:t}){o.useEffect(()=>{const a=`${n} | YOG SANYOG`;if(document.title=a,t){let e=document.querySelector('meta[name="description"]');e||(e=document.createElement("meta"),e.setAttribute("name","description"),document.head.appendChild(e)),e.setAttribute("content",t)}},[n,t])}export{m as u};

@@ -1,0 +1,1 @@
+import{j as e}from"./index-CRfZI0v4.js";import{u as t}from"./usePageMeta-pjurMmkB.js";import{P as i}from"./PageHeader-cVIK7Eov.js";const n=()=>(t({title:"Admin Overview"}),e.jsx("div",{children:e.jsx(i,{title:"Admin Overview",subtitle:"Manage studio students, revenue metrics, batch capacities, and enquiries."})}));export{n as AdminDashboardPage};

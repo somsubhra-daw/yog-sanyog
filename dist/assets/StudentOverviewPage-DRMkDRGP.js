@@ -1,0 +1,1 @@
+import{j as e}from"./index-CRfZI0v4.js";import{u as t}from"./usePageMeta-pjurMmkB.js";import{P as r}from"./PageHeader-cVIK7Eov.js";const n=()=>(t({title:"Student Dashboard"}),e.jsx("div",{children:e.jsx(r,{title:"Student Overview",subtitle:"View your assigned batch, fee status, and announcements."})}));export{n as StudentOverviewPage};
